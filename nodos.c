@@ -12,5 +12,5 @@ int main( int argc, char *argv[]){
 
     struct Libro *lista;
     // aqui va còdigo
-    return 0;
+    return 0; dd
 }
